@@ -5,5 +5,5 @@ Airbnb has largely filled the void of available stays outside of that area.
 Using data from api scrapers from http://insideairbnb.com/get-the-data.html for our Chicago Airbnb data
 and Chicago neighborhood info via the City of Chicago's data portal we can explore how these listings span the city.
 
-Examining density and cst neighborhood can be beneficial for customers looking to see what neighborhoods have the most options
+Examining density and cost by neighborhoods can be beneficial for customers looking to see what neighborhoods have the most options
 and which are the most affordable.
